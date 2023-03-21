@@ -1,4 +1,4 @@
-package ru.netology.services.Javamvn;
+package ru.netology.services.Javamvn6.service;
 
 public class MonthsOfRestService {
     public int calculate(int income, int expenses, int threshold) {
